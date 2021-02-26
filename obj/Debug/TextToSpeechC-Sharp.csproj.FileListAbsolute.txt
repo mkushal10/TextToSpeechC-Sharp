@@ -1,0 +1,10 @@
+D:\.NET Projects\TextToSpeechC-Sharp\bin\Debug\TextToSpeechC-Sharp.exe.config
+D:\.NET Projects\TextToSpeechC-Sharp\bin\Debug\TextToSpeechC-Sharp.exe
+D:\.NET Projects\TextToSpeechC-Sharp\bin\Debug\TextToSpeechC-Sharp.pdb
+D:\.NET Projects\TextToSpeechC-Sharp\obj\Debug\TextToSpeechC-Sharp.csprojAssemblyReference.cache
+D:\.NET Projects\TextToSpeechC-Sharp\obj\Debug\TextToSpeechC_Sharp.FormProject.resources
+D:\.NET Projects\TextToSpeechC-Sharp\obj\Debug\TextToSpeechC_Sharp.Properties.Resources.resources
+D:\.NET Projects\TextToSpeechC-Sharp\obj\Debug\TextToSpeechC-Sharp.csproj.GenerateResource.cache
+D:\.NET Projects\TextToSpeechC-Sharp\obj\Debug\TextToSpeechC-Sharp.csproj.CoreCompileInputs.cache
+D:\.NET Projects\TextToSpeechC-Sharp\obj\Debug\TextToSpeechC-Sharp.exe
+D:\.NET Projects\TextToSpeechC-Sharp\obj\Debug\TextToSpeechC-Sharp.pdb
